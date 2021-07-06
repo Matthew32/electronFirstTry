@@ -10,5 +10,8 @@
   },
   "scripts": {
     "start": "electron ."
+  },
+  "dependencies": {
+    "gdrive-sync-js": "^0.3.7"
   }
 }
