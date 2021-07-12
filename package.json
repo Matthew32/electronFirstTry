@@ -12,6 +12,9 @@
     "start": "electron ."
   },
   "dependencies": {
-    "gdrive-sync-js": "^0.3.7"
+    "fs": "^0.0.1-security",
+    "gdrive-sync-js": "^0.3.7",
+    "googleapis": "^39.2.0",
+    "readline": "^1.3.0"
   }
 }
